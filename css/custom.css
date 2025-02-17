@@ -64,7 +64,7 @@ div.bibinfo pre { clear:both; }
 -------------------------------------------------- */
 
 body {
-  font-size: 1.2rem; /* 1rem = tamaño base del navegador (~16px) */
+  font-size: 1rem; /* 1rem = tamaño base del navegador (~16px) */
   line-height: 1.5;
   /* text-align: justify; */
 }
